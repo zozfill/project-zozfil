@@ -1,4 +1,4 @@
-- https://project-zozfil.fly.dev/
+- https://projectzozfil.fly.dev/
 - https://google.com/
 - https://project-nexora.fly.dev/
 - https://claude.ai/
