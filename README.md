@@ -2,3 +2,4 @@
 - https://google.com/
 - https://project-nexora.fly.dev/
 - https://claude.ai/
+- https://godaddy.com/
